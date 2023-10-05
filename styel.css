@@ -1,0 +1,42 @@
+table {
+    font-family: arial, sans-serif;
+    /*border-collapse: collapse;*/
+    width: 40%;
+    height: 300px;
+    margin: 0 auto;
+
+
+}
+td, th {
+    /*border: 1px solid #dddddd;*/
+    text-align: left;
+    /*padding: 10px;*/
+
+}
+
+/*tr:nth-child(even) {*/
+/*    !*background-color: #dddddd;*!*/
+/*}*/
+#mid{
+   text-align: left;
+    vertical-align: top;
+}
+
+#mid1{
+    background-color: PaleGoldenRod;
+    width : 30% ;
+}
+#foot{
+    background-color: darkgray;
+}
+#head{
+    background-color: lightgray;
+    vertical-align: top;
+    padding: 0px;
+    border: 0;
+}
+
+
+
+
+
