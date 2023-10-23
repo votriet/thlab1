@@ -10,6 +10,7 @@
 <body>
 <header>
     <h1>hello</h1>
+    <p>xin chao</p>
 </header>
 
 
